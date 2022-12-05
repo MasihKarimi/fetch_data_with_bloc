@@ -16,8 +16,8 @@ class UserModel {
     return UserModel(
         id: json['id'],
         email: json['email'],
-        firstname: json['firstname'] ?? "First Name",
-        lastname: json['lastname'] ?? 'Last Name',
+        firstname: json['first_name'] ?? "First Name",
+        lastname: json['last_name'] ?? 'Last Name',
         avatar: json['avatar'] ?? "https://zeersign.com"
         );
   }
