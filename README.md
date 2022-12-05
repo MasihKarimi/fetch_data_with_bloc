@@ -1,16 +1,13 @@
 # fetch_data_from_api_with_bloc
 
-A new Flutter project.
+A small project in order to demonstrate how can we fetch from any api using Bloc in flutter. 
 
-## Getting Started
+## How to Use this
+just clone this repository and check the files each line of code is comented for better undrasding 
 
-This project is a starting point for a Flutter application.
+## Libraies Used in this Project
+ 1. http
+ 2. bloc
+ 3. flutter_bloc
+ 4. equatable
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
