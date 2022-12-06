@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "fetch_data_from_api_with_bloc" "\0"
+            VALUE "FileDescription", "testing_figma" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "fetch_data_from_api_with_bloc" "\0"
+            VALUE "InternalName", "testing_figma" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "fetch_data_from_api_with_bloc.exe" "\0"
-            VALUE "ProductName", "fetch_data_from_api_with_bloc" "\0"
+            VALUE "OriginalFilename", "testing_figma.exe" "\0"
+            VALUE "ProductName", "testing_figma" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

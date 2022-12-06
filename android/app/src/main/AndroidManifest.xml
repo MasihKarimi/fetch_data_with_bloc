@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fetch_data_from_api_with_bloc">
+    package="com.example.testing_figma">
    <application
-        android:label="fetch_data_from_api_with_bloc"
+        android:label="testing_figma"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

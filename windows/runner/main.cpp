@@ -27,7 +27,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
-  if (!window.CreateAndShow(L"fetch_data_from_api_with_bloc", origin, size)) {
+  if (!window.CreateAndShow(L"testing_figma", origin, size)) {
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
